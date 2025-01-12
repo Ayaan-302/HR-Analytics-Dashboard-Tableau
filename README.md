@@ -22,13 +22,6 @@ This repository contains an interactive **HR Analytics Dashboard** built with Ta
 1. Open the Tableau file in Tableau Desktop or Tableau Public.
 2. Explore various filters and visualizations to analyze HR data.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
-   ```
-2. Open the Tableau file (`HR_Analytics_Dashboard.twbx`) in Tableau.
-
 ## Contributing
 Contributions are welcome! If you have ideas for additional features or enhancements, feel free to submit an issue or pull request.
 
