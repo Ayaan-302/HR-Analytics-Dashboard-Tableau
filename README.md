@@ -26,7 +26,7 @@ This repository contains an interactive **HR Analytics Dashboard** built with Ta
 Contributions are welcome! If you have ideas for additional features or enhancements, feel free to submit an issue or pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 For any questions or suggestions, please reach out to ayaankhan8745gmail.com
